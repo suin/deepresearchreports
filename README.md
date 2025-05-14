@@ -3,6 +3,10 @@
 - このリポジトリは、deep researchのレポートをまとめるためのものです。
 - AIによるレポートであるため、内容は正確ではない場合があります。
 
+### <sup><sub><code>AI</code> <code>コーディングツール</code> <code>プライバシー</code></sub></sup><br>[AI コーディングツール比較レポート: クローズドソース開発におけるリスク分析](2025-05-14-ai-coding-tools-risk-analysis.md) <sup><sub>(2025-05-14)</sub></sup>
+
+Cline、Roo Code、Cursorの3つのAIコーディングツールについて、コード所有権、データ収集、トレーニング利用、テレメトリの観点からクローズドソース開発におけるリスク分析を行い、プライバシーとセキュリティの懸念点を比較検証しています。
+
 ### <sup><sub><code>AI</code> <code>プロトコル</code> <code>統合</code></sub></sup><br>[技術的詳細: リモートMCP (Model Context Protocol)](2025-05-02-remote-model-context-protocol-technical-overview.md) <sup><sub>(2025-05-02)</sub></sup>
 
 リモートMCP（Model Context Protocol）は、AIツールとリモートデータソースを安全に接続する標準化プロトコルです。OAuth認証、複数のトランスポート層（SSE、Streamable HTTP）をサポートし、AIアプリケーションが外部サービスと効率的に通信できる「AIアプリケーションのためのUSB-Cポート」として機能します。
